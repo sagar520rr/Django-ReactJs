@@ -1,0 +1,25 @@
+/* styles.css */
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  /* Banner styles */
+  .banner {
+    background-color: #3498db;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .banner h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  .banner p {
+    font-size: 16px;
+  }
+  
